@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12016f6f-8f7c-4f4a-993c-86e9f83a65f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aun43ZEBIZncVL3YyQqrVMZ3Ab" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../P2_T14_DIFFERENT_NUMBERS_LESS_THAN_100/src/usta/sistemas/Main.java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="usta.sistemas.Main" />
+      <module name="P2_T15_MAKE_MARKET_WITH_500_THOUSAND" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12016f6f-8f7c-4f4a-993c-86e9f83a65f2" name="Default Changelist" comment="" />
+      <created>1587594151841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587594151841</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1138" y="293" key="FileChooserDialogImpl" timestamp="1587594255919">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1138" y="293" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1587594255919" />
+    <state x="1053" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1587659737858">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1053" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587659737858" />
+    <state x="685" y="159" key="new project wizard" timestamp="1587659904413">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="685" y="159" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1587659904413" />
+  </component>
+</project>
